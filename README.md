@@ -19,8 +19,8 @@ A collection of technical and domain-specific books I’ve read or am currently 
 
 Interesting blogs and research papers that offered useful insights, ideas, or mental models. \
 
-➜ Hybrid Search in Vector Databases https://qdrant.tech/articles/hybrid-search/
-➜ Your Monolith Is Already A Distributed System https://arpitbhayani.me/blogs/monolith-is-distributed-system
-➜ THE TWELVE-FACTOR APP https://12factor.net/
-➜ (Fav ⭐) Decomposing Systems Into Modules https://prl.khoury.northeastern.edu/img/p-tr-1971.pdf
-➜ Atlassian: Comparing Git workflows https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+➜ Hybrid Search in Vector Databases https://qdrant.tech/articles/hybrid-search/  
+➜ Your Monolith Is Already A Distributed System https://arpitbhayani.me/blogs/monolith-is-distributed-system  
+➜ THE TWELVE-FACTOR APP https://12factor.net/  
+➜ (Fav ⭐) Decomposing Systems Into Modules https://prl.khoury.northeastern.edu/img/p-tr-1971.pdf  
+➜ Atlassian: Comparing Git workflows https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow  

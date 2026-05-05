@@ -7,6 +7,7 @@ _A living log of my reading journey... blogs, papers, and books that build found
 ### 1\. Books
 
 A collection of technical and domain-specific books I’ve read or am currently reading. \
+➜ High Performance Browser Networking https://hpbn.co/ \
 ➜ Hackers & Painters https://sl1nk.com/mqcbidk \
 ➜ AI Engineering https://sl1nk.com/fd6o4m4 \
 ➜ System Design Interview https://l1nq.com/pqxe11f \
@@ -16,8 +17,10 @@ A collection of technical and domain-specific books I’ve read or am currently 
 
 ### 2\. Blogs / Papers
 
-Interesting blog posts and research papers—grouped together for now—that offered useful insights, ideas, or mental models.
+Interesting blogs and research papers that offered useful insights, ideas, or mental models. \
 
-### 3\. Non-Tech (but worth-it books)
-
-Books outside the tech space that are still worth reading—thinking, philosophy, psychology, or just good writing.
+➜ Hybrid Search in Vector Databases https://qdrant.tech/articles/hybrid-search/
+➜ Your Monolith Is Already A Distributed System https://arpitbhayani.me/blogs/monolith-is-distributed-system
+➜ THE TWELVE-FACTOR APP https://12factor.net/
+➜ (Fav ⭐) Decomposing Systems Into Modules https://prl.khoury.northeastern.edu/img/p-tr-1971.pdf
+➜ Atlassian: Comparing Git workflows https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow

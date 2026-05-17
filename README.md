@@ -26,6 +26,6 @@ Interesting blogs and research papers that offered useful insights, ideas, or me
 ➜ THE TWELVE-FACTOR APP https://12factor.net/  
 ➜ (Fav ⭐) Decomposing Systems Into Modules https://prl.khoury.northeastern.edu/img/p-tr-1971.pdf  
 ➜ Atlassian: Comparing Git workflows https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow  
-➜ Intel:  Deploy Multiple LLMs in a Cloud Native Environment https://sl1nk.com/hn9wbef
+➜ Intel:  Deploy Multiple LLMs in a Cloud Native Environment https://sl1nk.com/hn9wbef \
 ➜ Github: Git Best Practices and Tips https://shorturl.at/YGltV
 

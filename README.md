@@ -28,5 +28,5 @@ Interesting blogs and research papers that offered useful insights, ideas, or me
 ➜ Atlassian: Comparing Git workflows https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow  
 ➜ Intel:  Deploy Multiple LLMs in a Cloud Native Environment https://sl1nk.com/hn9wbef \
 ➜ Github: Git Best Practices and Tips https://shorturl.at/YGltV \
-➜ A Hacker's Guide to Git https://wildlyinaccurate.com/a-hackers-guide-to-git/
-
+➜ A Hacker's Guide to Git https://wildlyinaccurate.com/a-hackers-guide-to-git/ \
+➜ Google: Documentation Best Practices https://google.github.io/styleguide/docguide/best_practices.html \

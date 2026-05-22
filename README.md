@@ -30,3 +30,4 @@ Interesting blogs and research papers that offered useful insights, ideas, or me
 ➜ Github: Git Best Practices and Tips https://shorturl.at/YGltV \
 ➜ A Hacker's Guide to Git https://wildlyinaccurate.com/a-hackers-guide-to-git/ \
 ➜ Google: Documentation Best Practices https://google.github.io/styleguide/docguide/best_practices.html \
+➜ Uber: Domain-Oriented Microservice Architecture https://www.uber.com/us/en/blog/microservice-architecture/

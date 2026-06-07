@@ -31,4 +31,5 @@ Interesting blogs and research papers that offered useful insights, ideas, or me
 ➜ A Hacker's Guide to Git https://wildlyinaccurate.com/a-hackers-guide-to-git/ \
 ➜ Google: Documentation Best Practices https://google.github.io/styleguide/docguide/best_practices.html \
 ➜ Uber: Domain-Oriented Microservice Architecture https://www.uber.com/us/en/blog/microservice-architecture/ \
-➜ Go Data Structures: Interfaces https://research.swtch.com/interfaces
+➜ Go Data Structures: Interfaces https://research.swtch.com/interfaces \
+➜ A one size fits all database doesn't fit anyone https://shorturl.at/240Qb

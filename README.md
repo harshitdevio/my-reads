@@ -32,4 +32,5 @@ Interesting blogs and research papers that offered useful insights, ideas, or me
 ➜ Google: Documentation Best Practices https://google.github.io/styleguide/docguide/best_practices.html \
 ➜ Uber: Domain-Oriented Microservice Architecture https://www.uber.com/us/en/blog/microservice-architecture/ \
 ➜ Go Data Structures: Interfaces https://research.swtch.com/interfaces \
-➜ A one size fits all database doesn't fit anyone https://shorturl.at/240Qb
+➜ A one size fits all database doesn't fit anyone https://shorturl.at/240Qb \
+➜ Data Chunking: https://www.couchbase.com/blog/data-chunking/ 

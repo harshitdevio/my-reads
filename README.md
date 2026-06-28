@@ -13,8 +13,8 @@ A collection of technical and domain-specific books I’ve read or am currently 
 ➜ AI Engineering https://sl1nk.com/fd6o4m4 \
 ➜ System Design Interview https://l1nq.com/pqxe11f \
 ➜ Learning Go 2nd Edition https://sl1nk.com/ljb5j35 \
-➜ I Heart Logs https://l1nq.com/zmifpab
-
+➜ I Heart Logs https://l1nq.com/zmifpab \
+➜ Computer Networking, 8e https://shorturl.at/Mi7LN 
 
 ### 2\. Blogs / Papers
 

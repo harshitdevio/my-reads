@@ -34,4 +34,5 @@ Interesting blogs and research papers that offered useful insights, ideas, or me
 ➜ Go Data Structures: Interfaces https://research.swtch.com/interfaces \
 ➜ A one size fits all database doesn't fit anyone https://shorturl.at/240Qb \
 ➜ Data Chunking: https://www.couchbase.com/blog/data-chunking/ \
-➜ HTTP Multipart: https://blog.adamchalmers.com/multipart/ 
+➜ HTTP Multipart: https://blog.adamchalmers.com/multipart/ \
+➜ Process vs Threads: https://shorturl.at/xas9y
